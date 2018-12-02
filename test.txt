@@ -1,0 +1,12 @@
+ Volume in drive D has no label.
+ Volume Serial Number is D8D2-40F1
+
+ Directory of D:\apps\jenkins\workspace\HelloWorldjava
+
+12/02/2018  05:27 PM    <DIR>          .
+12/02/2018  05:27 PM    <DIR>          ..
+12/02/2018  04:56 PM               683 Hello.class
+12/02/2018  05:26 PM               207 Hello.java
+12/02/2018  05:27 PM                 0 test.txt
+               3 File(s)            890 bytes
+               2 Dir(s)  48,167,464,960 bytes free
